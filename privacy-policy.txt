@@ -1,39 +1,26 @@
-Preston Productions, Inc. Privacy Policy
+PRESTON PRODUCTIONS, INC. PRIVACY POLICY FOR "COLORBLOX"
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from  (the “ColorBlox”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from “ColorBlox”.
 
 PERSONAL INFORMATION WE COLLECT
+When you visit the ColorBlox, we automatically collect certain information about your device, including the type of device being used. Additionally, as you use ColorBlox, we collect information about how you interact with the ColorBlox. We refer to this automatically-collected information as “Device Information”. This Device Information may be held on privately owned online servers or exculsively on-device.
 
-When you visit the ColorBlox, we automatically collect certain information about your device, including the type of device being used. Additionally, as you use ColorBlox, we collect information about how you interact with the ColorBlox. We refer to this automatically-collected information as “Device Information.”
+We do not collect any of the following information:
+    - Name
+    - Age
+    - Sex
+    - Location
 
-We collect Device Information using the following technologies:
-    
-    - “Log files” track actions occurring on ColorBlox, and collect data including in-game statistics and date/time stamps.
+HOW DO WE USE YOUR DEVICE INFORMATION?
+We hold the rights to use the Device Information in anyway we choose.
 
-When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information.
-
-HOW DO WE USE YOUR PERSONAL INFORMATION?
-
-We hold the rights to use the Personal Information in anyway we choose.
-
-SHARING YOUR PERSONAL INFORMATION
-
-We can choose to share your Personal Information with any person/company we choose. We may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
-
-DO NOT TRACK
-Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
-
-If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
-
-Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
-
-DATA RETENTION
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+SHARING YOUR DEVICE INFORMATION
+We can choose to share your Device Information with any person/company we choose. We may also share your Device Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
 CHANGES
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
 CONTACT US
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at graham@mdmotionpictures.com or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at grahampreston@comcast.net or by mail using the details provided below:
 
   18 Cockeysville Road, Suite 212, Hunt Valley, MD, 21030, United States
