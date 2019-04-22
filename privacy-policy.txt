@@ -9,7 +9,6 @@ We do not collect any of the following information:
     - Name
     - Age
     - Sex
-    - Location
 
 HOW DO WE USE YOUR DEVICE INFORMATION?
 We hold the rights to use the Device Information in any way we choose.
@@ -24,3 +23,4 @@ CONTACT US
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at grahampreston@comcast.net or by mail using the details provided below:
 
   18 Cockeysville Road, Suite 212, Hunt Valley, MD, 21030, United States
+  
